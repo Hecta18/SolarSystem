@@ -172,6 +172,6 @@ No se implementan la nave propia, el movimiento 3D opcional ni el efecto warp de
 fast travel. La selección de planetas con transición suave cubre el requisito de
 mover la cámara entre modelos.
 
-## Capturas
+## Video
 
-![Tierra de cerca](docs/earth.png)
+![Prueba funcional](https://youtu.be/v5qsyqDRQyo)
